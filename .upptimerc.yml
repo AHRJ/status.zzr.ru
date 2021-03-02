@@ -4,6 +4,10 @@ repo: status.zzr.ru
 sites:
   - name: zzr.ru
     url: https://zzr.ru
+  - name: dev.zzr.ru
+    url: https://dev.zzr.ru
+    expectedStatusCodes:
+      - 403    
   - name: Control TCP ping
     url: 1.1.1.1
 
