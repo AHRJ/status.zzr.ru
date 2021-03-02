@@ -9,5 +9,5 @@ sites:
 
 status-website:
   cname: status.zzr.ru
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.zzr.ru/static/icons/logo.png
   name: AHJR status page
