@@ -10,4 +10,5 @@ sites:
 status-website:
   cname: status.zzr.ru
   logoUrl: https://cdn.zzr.ru/static/icons/logo.png
-  name: AHJR status page
+  favicon: https://cdn.zzr.ru/static/icons/favicon.png
+  name: status page
