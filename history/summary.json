@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 821,
-    "timeWeek": 762,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "time": 781,
+    "timeDay": 734,
+    "timeWeek": 757,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/dev.zzr.ru",
     "slug": "dev-zzr-ru",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
-    "time": 294,
-    "timeDay": 130,
-    "timeWeek": 142,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 286,
+    "timeDay": 156,
+    "timeWeek": 145,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2021-03-03": 166
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 50,
-    "timeWeek": 59,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "time": 54,
+    "timeDay": 64,
+    "timeWeek": 57,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {}
   }
 ]
