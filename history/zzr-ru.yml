@@ -1,7 +1,7 @@
 url: https://zzr.ru
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2021-07-27T23:19:07.104Z
+status: down
+code: 502
+responseTime: 606
+lastUpdated: 2021-07-28T12:36:40.030Z
 startTime: Tue Mar 02 2021 07:40:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
